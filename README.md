@@ -1,4 +1,4 @@
-
+Hello there! 👋 I'm Darshan Solabannavar
 I'm Darshan Solabannavar, a Data Analyst and AI/ML Engineer currently pursuing my B.Tech in Computer Science at Sapthagiri NPS University. I work with Python, SQL, Power BI, and Tableau to turn messy data into dashboards people actually use, and I build agentic AI systems using RAG and multi-LLM orchestration. I've interned as a Data Analyst at Bold Analytics, completed Deloitte Australia's data analytics simulation, and won Best Award at the NammaSuraksha national hackathon. I'm an open-source contributor to TauricResearch's TradingAgents project, and I'm currently looking for a Data Analytics or AI/ML internship.
 
 
